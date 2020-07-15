@@ -1,6 +1,6 @@
 [Project]
-FileName=Tarea2.dev
-Name=Tarea2
+FileName=Notas.dev
+Name=Notas
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=FacturaExcenta.cpp
+FileName=Notas.cpp
 CompileCpp=1
 Folder=
 Compile=1
